@@ -1,0 +1,11 @@
+//! **************************************************************************
+// Written by: Map M.53d on Thu May 09 09:06:47 2024
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "rst_n" LOCATE = SITE "F6" LEVEL 1;
+COMP "CLK" LOCATE = SITE "L15" LEVEL 1;
+COMP "RXD" LOCATE = SITE "A16" LEVEL 1;
+COMP "TXD" LOCATE = SITE "B16" LEVEL 1;
+SCHEMATIC END;
+

@@ -1,0 +1,7 @@
+#Created by Constraints Editor (xc6slx45-csg324-3) - 2024/05/09
+NET "CLK" TNM_NET = CLK;
+TIMESPEC TS_CLK = PERIOD "CLK" 10 ns HIGH 50%;
+NET "CLK" LOC = "L15";
+NET "rst_n" LOC = "T15";
+NET "TXD" LOC = "B16";
+NET "RXD" LOC = "A16";
